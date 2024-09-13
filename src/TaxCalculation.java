@@ -1,5 +1,10 @@
 public class TaxCalculation {
     public static void main(String[] args) {
+        
+        
+        
+        
+        
         double productPrice1 = 100;
         double productPrice2 = 200;
         double tax1 = productPrice1 * 0.15;
