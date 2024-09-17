@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class TaxCalculation {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
 
         // inicializar el Scanner
