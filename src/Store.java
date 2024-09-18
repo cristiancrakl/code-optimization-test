@@ -1,12 +1,22 @@
 public class Store {
     public static void main(String[] args) {
-        int p1 = 15;
-        int p2 = 10;
-        int p3 = 5;
+        
 
-        int total1 = p1 * 2;
-        int total2 = p2 * 3;
-        int total3 = p3 * 4;
+        //cambio el nombre a las variables 
+        final int Precio_Producto1 = 15;
+        final int Precio_Producto2 = 10;
+        final int Precio_Producto3 = 5;
+
+       
+       
+       
+       
+       
+       
+       
+        int total1 = Precio_Producto1 * 2;
+        int total2 = Precio_Producto2 * 3;
+        int total3 = Precio_Producto3 * 4;
 
         int totalSales = total1 + total2 + total3;
 
